@@ -1,6 +1,6 @@
 # Mapty
 
-A Geo location website used to bookmark live workout modes in your location
+A Geo locator website used to bookmark live workout modes in your location
 
 https://mapty-yogesh.netlify.app
 
